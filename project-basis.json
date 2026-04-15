@@ -1,0 +1,192 @@
+{
+    "generatedAt": "2026-04-15T19:00:08+00:00",
+    "company": {
+        "name": "Ice Cream Parlor & Cafe Flora",
+        "category": "cafe, establishment, food, point_of_interest, store",
+        "website": "http://www.flora-fl.de/",
+        "email": "info@flora-fl.de",
+        "phone": "01520 9861052",
+        "city": "Flensburg",
+        "address": "Alter Husumer Weg 260, 24941 Flensburg, Germany",
+        "description": null
+    },
+    "repo": {
+        "repoUrl": "https://github.com/foerdelab-demos/ice-cream-parlor-cafe-flora",
+        "demoUrl": "https://demo.foerdelab.de/ice-cream-parlor-cafe-flora",
+        "slug": "ice-cream-parlor-cafe-flora"
+    },
+    "brief": {
+        "summary": "Demo-Website für Flora - Eiscafé und Café in Flensburg mit 2 Standorten. Fokus auf mobile Optimierung, lokale Auffindbarkeit und emotionale Darstellung der hausgemachten Gelato-Qualität. Ziel: Spontane Laufkundschaft gewinnen und saisonale Umsatzspitzen maximieren.",
+        "tone": "warm, einladend, authentisch - lokale Gemütlichkeit mit handwerklicher Qualität",
+        "targetAudience": [
+            "Familien mit Kindern",
+            "Touristen in Flensburg",
+            "Lokale Stammkunden",
+            "Spontane Laufkundschaft",
+            "Mobile Nutzer auf Eissuche"
+        ],
+        "keyServices": [
+            "Hausgemachtes Gelato aus eigener Manufaktur",
+            "Barista-Kaffee mit ONOMA-Röstung",
+            "Frische Waffeln und Snacks",
+            "Individuelle Eistorten",
+            "Catering und Events"
+        ],
+        "trustSignals": [
+            "4.5 Sterne bei 242+ Google Bewertungen",
+            "Eigene Eismanufaktur mit klaren Rezepturen",
+            "2 etablierte Standorte seit Jahren",
+            "3D-Rundgänge der Locations",
+            "Täglich frische Produktion"
+        ],
+        "contentAngles": [
+            "Heute geöffnet bis X Uhr - Spontanbesuch möglich",
+            "Aktuelle Eissorten des Tages",
+            "Handwerkliche Eisproduktion live erleben",
+            "Gemütliche Nachbarschaftsatmosphäre",
+            "Perfekt für Familienausflüge"
+        ],
+        "suggestedPages": [
+            "Homepage mit Standorten & Öffnungszeiten",
+            "Aktuelle Eissorten (täglich aktualisierbar)",
+            "Speisekarte kompakt",
+            "Standorte mit Routenplaner",
+            "Eistorten-Konfigurator",
+            "Kontakt & Reservierung"
+        ],
+        "developerNotes": [
+            "Mobile-First Design absolut kritisch",
+            "Standort-Switcher prominent platzieren",
+            "Google Maps Integration für beide Locations",
+            "Schnelle Ladezeiten für spontane mobile Suchen",
+            "Einfache CMS-Lösung für tägliche Eissortenänderungen",
+            "Click-to-Call Buttons für Reservierungen"
+        ],
+        "seoNotes": [
+            "Lokale Keywords: 'Eiscafé Flensburg', 'Gelato Weiche'",
+            "Google My Business Optimierung für beide Standorte",
+            "Saisonale Keywords für Eis-Hochsaison",
+            "Strukturierte Daten für Öffnungszeiten",
+            "Mobile Page Speed als Ranking-Faktor"
+        ],
+        "ctaIdeas": [
+            "Jetzt geöffnet - Route starten",
+            "Heutige Eissorten ansehen",
+            "Tisch reservieren",
+            "Eistorte bestellen",
+            "Standort anrufen",
+            "3D-Rundgang starten"
+        ]
+    },
+    "analysis": {
+        "website": {
+            "score": 72,
+            "verdict": "gut",
+            "summary": "Solide Website mit gutem Content und klarer Struktur, aber verpasst mobile Optimierung und hat schwache Call-to-Actions. Die technische Umsetzung ist veraltet und bremst das Potenzial aus.",
+            "problems": [
+                {
+                    "category": "Mobile",
+                    "severity": "kritisch",
+                    "problem": "Keine erkennbare mobile Optimierung - kritisch für ein lokales Café",
+                    "impact": "70% der Kunden suchen unterwegs nach Cafés - diese Website verliert massiv lokale Laufkundschaft"
+                },
+                {
+                    "category": "Performance",
+                    "severity": "hoch",
+                    "problem": "Veraltete PHP-Struktur und wahrscheinlich schlechte Ladezeiten",
+                    "impact": "Google rankt langsame Seiten schlechter, Kunden springen ab bevor sie Öffnungszeiten sehen"
+                },
+                {
+                    "category": "CTA",
+                    "severity": "mittel",
+                    "problem": "Schwache Call-to-Actions - nur 'Route starten' als Hauptaktion",
+                    "impact": "Verpasst Conversions für Eistorten-Bestellungen, Catering-Anfragen und Events"
+                },
+                {
+                    "category": "SEO",
+                    "severity": "mittel",
+                    "problem": "Fehlende lokale SEO-Optimierung trotz zwei Standorten",
+                    "impact": "Verliert gegen Konkurrenz bei 'Eiscafé Flensburg' und anderen lokalen Suchanfragen"
+                }
+            ],
+            "positives": [
+                "Sehr guter, emotionaler Content mit klarer Markenbotschaft",
+                "3D-Rundgänge sind innovativ und schaffen Vertrauen",
+                "Klare Struktur und alle wichtigen Infos vorhanden",
+                "Community-Integration bei Eissorten zeigt Kundennähe"
+            ],
+            "our_pitch": "Flora hat großartigen Content, aber die veraltete Technik kostet täglich Kunden - besonders mobile Nutzer finden nicht zum Laden. Eine moderne, mobile Website würde sofort mehr Laufkundschaft und Online-Bestellungen generieren.",
+            "urgency": "hoch"
+        },
+        "profile": {
+            "business_type": "Eiscafé und Café mit eigener Eisproduktion und gastronomischem Angebot",
+            "target_customers": "Familien, Touristen, Einheimische, Eisliebhaber, Cafébesucher jeden Alters",
+            "pain_points": [
+                "Saisonabhängigkeit macht Online-Marketing zur Kundengewinnung außerhalb der Hauptsaison kritisch",
+                "Schwierige Darstellung der täglich wechselnden Eissorten und Spezialitäten ohne moderne Webpräsenz",
+                "Verpasste Chancen bei touristischen Suchanfragen in Flensburg ohne optimierte Website",
+                "Keine effektive Möglichkeit, die gemütliche Atmosphäre und Qualität online zu vermitteln"
+            ],
+            "digital_maturity": "gering",
+            "local_competition": "mittel - mehrere Eiscafés in Flensburg, aber spezialisierte Betriebe mit guter Webpräsenz haben Vorteile",
+            "best_product_fit": "beide",
+            "fit_reason": "Website für aktuelle Speisekarten und Events, 360°-Tour perfekt um die einladende Atmosphäre und Eistheke zu zeigen - entscheidend für Gastronomie",
+            "review_analysis": "Sehr gute Bewertungen (4.5/5) mit solider Bewertungsanzahl (242) zeigen etablierten, beliebten Betrieb mit treuer Kundschaft",
+            "opportunity_score": 82,
+            "quick_facts": [
+                "Etabliertes Eiscafé mit ausgezeichneter Reputation (4.5 Sterne)",
+                "Standort am Alter Husumer Weg - potentiell touristenrelevant",
+                "Kombination aus Eiscafé und regulärem Café erweitert Zielgruppe ganzjährig"
+            ]
+        },
+        "sales": {
+            "opening": {
+                "line": "Hallo Herr/Frau [Name], ich bin [Dein Name] von FördeLab aus der Region - ich habe mir gerade Ihr schönes Café Flora online angeschaut und dachte mir, da könnte ich vielleicht mit einer kleinen Beobachtung helfen.",
+                "tip": "Lokaler Bezug schafft sofort Vertrauen, die 'kleine Beobachtung' macht neugierig ohne aufdringlich zu wirken"
+            },
+            "elevator_pitch": {
+                "script": "Wir helfen Cafés und lokalen Unternehmen hier in Schleswig-Holstein dabei, online genauso einladend zu wirken wie vor Ort. Speziell bei Ihrem Café Flora ist mir aufgefallen, dass die Website zwar schön aussieht, aber auf dem Smartphone nicht optimal funktioniert - und das ist heute kritisch, weil 80% Ihrer Gäste unterwegs nach Ihnen suchen.",
+                "personalization": "Direkter Bezug auf das konkrete Problem der mobilen Optimierung und lokale Verwurzelung in SH"
+            },
+            "pain_question": {
+                "question": "Haben Sie schon mal beobachtet, wie oft potenzielle Gäste auf dem Handy nach Öffnungszeiten oder der Karte schauen, aber dann frustriert aufgeben, weil die Seite nicht richtig lädt?",
+                "followup": "Das kenne ich von vielen Café-Betreibern. Das Schlimme ist ja: Sie verlieren Kunden, ohne es zu merken. Jeder zweite Interessent, der auf dem Handy Probleme hat, geht einfach zur Konkurrenz."
+            },
+            "main_argument": {
+                "script": "Stellen Sie sich vor: Jemand spaziert durch Flensburg, bekommt Lust auf gutes Eis, googelt 'Eiscafé Flensburg' auf dem Handy - und Ihre Website lädt perfekt, zeigt sofort die heutigen Sorten und einen 360°-Rundgang durch Ihr gemütliches Café. Das ist wie ein Magnet für neue Gäste, besonders jetzt vor der warmen Jahreszeit.",
+                "usecase": "Eiscafés sind extrem saisonabhängig und impulsorientiert - eine mobile Website + 360°-Tour kann spontane Laufkundschaft massiv steigern"
+            },
+            "objections": [
+                {
+                    "objection": "Das ist mir zu teuer / Haben gerade wenig Budget",
+                    "response": "Das verstehe ich absolut. Deshalb machen wir das auch nicht als Riesenprojekt, sondern in kleinen Schritten. Eine mobile Website kostet Sie weniger als zwei Wochen Werbung auf Facebook - aber wirkt das ganze Jahr. Und ehrlich gesagt: Können Sie es sich leisten, weiterhin Gäste zu verlieren?"
+                },
+                {
+                    "objection": "Wir haben keine Zeit für sowas / Sind zu beschäftigt",
+                    "response": "Genau das höre ich von erfolgreichen Café-Betreibern - Sie haben alle Hände voll zu tun! Deshalb machen wir ja alles für Sie. Sie müssen nur einmal 30 Minuten für schöne Fotos und den 360°-Rundgang einplanen. Den Rest übernehmen wir komplett."
+                },
+                {
+                    "objection": "Wir haben schon jemanden / bekommen Aufträge ohne Website",
+                    "response": "Das freut mich zu hören, dass es gut läuft! Gerade deshalb wäre es schade, wenn Sie Potenzial verschenken. Schauen Sie: Ihr Café Flora hat bereits einen guten Ruf - mit einer perfekten mobilen Präsenz könnten Sie noch viel mehr Menschen erreichen, die Ihr schönes Café noch nicht kennen."
+                }
+            ],
+            "closing": {
+                "soft_close": "Hören Sie was: Ich bin sowieso nächste Woche in Flensburg unterwegs. Soll ich kurz bei Ihnen vorbeischauen, zeige Ihnen an ein paar Beispielen, wie das bei anderen Cafés funktioniert hat? Völlig unverbindlich, dauert 10 Minuten.",
+                "hard_close": "Perfekt! Dann schaue ich kommenden [Tag] um [Zeit] bei Ihnen vorbei. Ich bringe ein paar Beispiele mit und schauen uns gemeinsam an, wie wir Ihr Café Flora noch besser online präsentieren können. Passt das für Sie?"
+            },
+            "dos": [
+                "Lokalen Bezug zu Flensburg/SH betonen",
+                "Saisonalität ansprechen (Eis im Frühjahr/Sommer)",
+                "Mobile Nutzung in den Vordergrund stellen",
+                "Persönlichen Besuch anbieten"
+            ],
+            "donts": [
+                "Nicht zu technisch werden",
+                "Nicht die bestehende Website schlecht machen",
+                "Nicht auf Kosten eingehen bevor Nutzen klar ist",
+                "Nicht zu lange telefonieren - Café-Betreiber sind oft im Stress"
+            ]
+        }
+    },
+    "website_excerpt": "TITLE: Flora – Eis & Café in Flensburg | 2 Standorte, Öffnungszeiten & Speisekarte\nMETA-DESCRIPTION: Hausgemachtes Gelato, Barista-Kaffee, Waffeln und Genussmomente in Flensburg. Entdecke unsere Standorte, Öffnungszeiten und die Speisekarte auf einen Blick.\nH1: Flora.FlensburgsEisliebe.\nH2: Genussmomente | Standorte & Öffnungszeiten | Standorte vorab ansehen | Beliebte Einstiege | Flora Atmosphäre | Was Gäste erleben. | September 2024.Alles ändert sich. | Flora entwickelt sich. | Flora in den Medien | Heute Lust auf echten Genuss?\nH3: Hausgemachtes Gelato | Barista-Kaffee | Waffeln & Snacks | Zwei Standorte | Alter Husumer Weg 260 | Marrensdamm 4 | 3D‑Rundgang · Weiche | 3D‑Rundgang · Marrensdamm | Unsere Eissorten | Speisekarte\nNAVIGATION: Geschichte | Eismanufaktur | Eissorten | Öffnungszeiten | Jobs | Teatime | Eistorten Konfigurator | Eistresen | Events | Impressum | Datenschutz | Eistorten | Speisekarte\nSEITENINHALT: Eis & Café · Flensburg · Eistradition Flora.FlensburgsEisliebe. Hausgemachtes Gelato. Echter Barista-Kaffee. Ein Ort, der Eindruck hinterlässt. Heute geöffnet bis 19 Uhr Jetzt vorbeikommen Route starten Entdecken Hausgemachtes Gelato Frisch aus unserer Manufaktur mit klaren Rezepturen und ehrlichem Geschmack. Barista-Kaffee Siebträger-Kaffee mit ONOMA-Röstung – kräftig, ausgewogen und sorgfältig zubereitet. Waffeln & Snacks Frisch gebacken, frisch gegrillt – perfekt für den schnellen Genuss oder lange Nachmittage. Zwei Standorte Weiche und Marrensdamm/Twedter Plack – immer nah, immer Flora. Genussmomente Gelato, Kaffee und mehr – ein Einblick in die Flora-Welt. Kaffee Gelato Waffeln Specials Barista Erfrischung Kaffee Gelato Waffeln Specials Barista Erfrischung Standorte & Öffnungszeiten Weiche Alter Husumer Weg 260 Unser gemütlicher Ursprung - hier fühlt sich Nachbarschaft zuhause. Route planen Standort ansehen Twedter Plack Marrensdamm 4 Modern & strukturiert - mit warmen Drinks, Eis und Waffeln. März: Täglich 13–18 Uhr Ab April: Täglich 12–19 Uhr Route planen Standort ansehen Standorte vorab ansehen Hier findest du die 3D‑Rundgänge beider Flora Standorte. 3D‑Rundgang · Weiche Schau dir den Standort Weiche direkt vor deinem Besuch an. 3D‑Rundgang · Marrensdamm Entdecke den Standort am Twedter Plack digital vorab. Beliebte Einstiege Alles Wichtige in einem Klick – klar priorisiert für echte Gäste. Unsere Eissorten Frisch produziert in unserer Eismanufaktur – von Klassik bis Saisonhighlight. Speisekarte Eis, Kaffee, Waffeln, Sandwiches und Specials kompakt auf einen Blick. Eistorten Individuell konfigurierbar für Geburtstage, Feiern und besondere Momente. Eistresen & Events Für Feiern, Firmen und Workshops – flexibel anfragbar. Flora Atmosphäre @flora_flensburg 2.303 Follower Folgen Reel Eiskaffee ☀️🍨 2 Kugeln nach Wahl mit doppeltem Espresso, Milch & Sahne – einfach perfekt für den Start in die Eis-Saiso Endlich wieder Zeit für Eis. Der Frühling ist da und der Affe\nFOOTER: M. K. via Google\nBILD-ALT-TEXTE: Flora Kaffee & Eisbar Logo | Cappuccino | Kugeleis | Zimtwaffel | Waterkant Becher | Flat White | Limoment | Flora Moment: After Eight Becher | Flora Moment: Amarenabecher\nWORTANZAHL: 903\n\n=== UNTERSEITEN ===\n--- UNTERSEITE: Speisekarte (http://www.flora-fl.de/speisekarte.php) ---\nTITLE: Speisekarte | Flora Kaffee & Eisbar\nH1: Speisekarte\nH2: Neuheiten | Heißgetränke | Waffeln | Eisbecher | Kaltgetränke | Basics & Snacks | Cookies & Datenschutz\nH3: Sandwiches (nur in Weiche) | Kidsbecher | Kalte Getränke &amp; Desserts | Softgetränke | Basics | Cookies\nINHALT: Speisekarte Eine Karte für beide Standorte: Entdecke alle Eisbecher, Waffeln, Drinks und Klassiker der Flora Kaffee & Eisbar. Neuheiten Heißgetränke Waffeln Eisbecher Kaltgetränke Basics & Snacks Neuheiten Sandwiches (nur in Weiche) Frisch gegrillt und belegt mit Gouda, Mozzarella und Cheddar. Dips sind optional zubuchbar. Highlight Grilled Cheese 5,50 € Klassiker mit geschmolzenem Käse-Trio und knusprigem Brot. Highlight Hot Turkey 6,50 € Saftige Putenbrust, Käse-Trio und goldbraun gegrilltes Brot. Highlight Salami Melt 6,50 € Herzhaft mit Salami, Gouda, Mozzarella und Cheddar. Dips 0,50 € Flora Dip (mittelscharf) oder Knoblauch-Dip. Nach oben Heißgetränke Mit Sirup nach Wahl (Karamell, Zimt, Vanille, Lebkuchen) +0,50&nbsp;&euro;. Kaffee 3,00 € Frisch gebrühter Kaffee. Flat White 3,80 € Doppelter Ristretto mit seidig feinem Milchschaum. Cappuccino 4,00 € Doppelter Espresso mit cremigem Milchschaum. Milchkaffee 4,20 € Lungo mit viel heißer Milch und feinem Schaum. Latte Macchiato 4,20 € Klassisch geschichtet mit Milch, Milchschaum und Espresso. Tee 2,00 € Schwarz, Grün, Pfefferminz, Earl Grey, Früchte, Chai. Chai Latte 4,20 € Vanille-Chai-Tee mit cremig aufgeschäumter Milch. Highli\n\n--- UNTERSEITE: FloraKaffee & Eisbar (http://www.flora-fl.de/index.php) ---\nTITLE: Flora – Eis & Café in Flensburg | 2 Standorte, Öffnungszeiten & Speisekarte\nH1: Flora.FlensburgsEisliebe.\nH2: Genussmomente | Standorte & Öffnungszeiten | Standorte vorab ansehen | Beliebte Einstiege | Flora Atmosphäre | Was Gäste erleben. | September 2024.Alles ändert sich. | Flora entwickelt sich.\nH3: Hausgemachtes Gelato | Barista-Kaffee | Waffeln & Snacks | Zwei Standorte | Alter Husumer Weg 260 | Marrensdamm 4 | 3D‑Rundgang · Weiche | 3D‑Rundgang · Marrensdamm\nINHALT: Eis & Café · Flensburg · Eistradition Flora.FlensburgsEisliebe. Hausgemachtes Gelato. Echter Barista-Kaffee. Ein Ort, der Eindruck hinterlässt. Heute geöffnet bis 19 Uhr Jetzt vorbeikommen Route starten Entdecken Hausgemachtes Gelato Frisch aus unserer Manufaktur mit klaren Rezepturen und ehrlichem Geschmack. Barista-Kaffee Siebträger-Kaffee mit ONOMA-Röstung – kräftig, ausgewogen und sorgfältig zubereitet. Waffeln & Snacks Frisch gebacken, frisch gegrillt – perfekt für den schnellen Genuss oder lange Nachmittage. Zwei Standorte Weiche und Marrensdamm/Twedter Plack – immer nah, immer Flora. Genussmomente Gelato, Kaffee und mehr – ein Einblick in die Flora-Welt. Kaffee Gelato Waffeln Specials Barista Erfrischung Kaffee Gelato Waffeln Specials Barista Erfrischung Standorte & Öffnungszeiten Weiche Alter Husumer Weg 260 Unser gemütlicher Ursprung - hier fühlt sich Nachbarschaft zuhause. Route planen Standort ansehen Twedter Plack Marrensdamm 4 Modern & strukturiert - mit warmen Drinks, Eis und Waffeln. März: Täglich 13–18 Uhr Ab April: Täglich 12–19 Uhr Route planen Standort ansehen Standorte vorab ansehen Hier findest du die 3D‑Rundgänge beider Flora Standorte. 3D‑Rundgang · Weiche Sc\n\n--- UNTERSEITE: Eismanufaktur (http://www.flora-fl.de/eismanufaktur.php) ---\nTITLE: Eismanufaktur | Flora Flensburg\nH1: Unsere Eismanufaktur – heute Klassiker, morgen Überraschung\nH2: Wunschsorten aus der Community | Deine Eis-Idee für Flora | Cookies & Datenschutz\nH3: Flora Gelato | Edition 01 | Edition 02 | Matcha | Raffaello | Kirsch sakura | Safran | Zartbitter Schokolade\nINHALT: Flora Eismanufaktur Unsere Eismanufaktur – heute Klassiker, morgen Überraschung Wir produzieren in Flensburg täglich frisches Eis. Neben den vertrauten Flora-Gelato-Lieblingen tüfteln wir an neuen Editionen, die erst 2026 gelüftet werden. Bleib neugierig. Italienisch Flora Gelato Der Klassiker für jeden Tag. Cremige Gelato-Basis und vertraute Lieblingssorten Zu Flora Gelato Geheim! Edition 01 Große Veränderungen sind unterwegs – was hier entsteht, bleibt noch ein bisschen geheim. Coming 2027! Geheim! Edition 02 Noch ein wenig Geduld – diese Linie wird 2028 alles auf den Kopf stellen. Seid gespannt. Coming 2028! Wunschsorten aus der Community Welche Ideen landen gerade auf unserer Liste? Je größer die Bubble, desto häufiger kam der Wunsch. 🥇 Matcha 3 Wünsche 🥇 Raffaello 3 Wünsche 🥇 Kirsch sakura 3 Wünsche 🥈 Safran 2 Wünsche 🥈 Zartbitter Schokolade 2 Wünsche 🥈 Giotto 2 Wünsche 🥈 Apfelstrudel 2 Wünsche 🥈 KIBA!!! 2 Wünsche 🥈 Reeses 2 Wünsche Johannisbeere Basilikum 1 Wunsch Weißeschokolade Pistazie 1 Wunsch Bueno 1 Wunsch Kinderschokolade 1 Wunsch M&M 1 Wunsch Johannisbeeren 1 Wunsch Mar..."
+}
