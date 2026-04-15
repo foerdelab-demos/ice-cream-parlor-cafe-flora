@@ -1,15 +1,15 @@
-# Ice Cream Parlor & Cafe Flora – Demo Website
+# Ice Cream Parlor & Cafe Flora
 
-Demo-Website erstellt von [FoerderLab](https://foerdelab.de).
+Diese Demo ist absichtlich nur eine Analyse-Basis.
 
-**Live:** https://demo.foerdelab.de/ice-cream-parlor-cafe-flora
+## Enthalten
+- `project-basis.json`: strukturierte Rohdaten aus Lead + KI-Analyse
+- `index.php`: einfache Uebersichtsseite fuer die manuelle Weiterentwicklung
+- `assets/css/style.css`: minimales Basis-Styling
 
-## Dateien
+## Naechster Schritt
+Auf dieser Basis kann das finale Frontend komplett frei neu entwickelt werden.
 
-- `index.php` – Hauptseite
-- Weitere Seiten nach Bedarf hinzufuegen
-
-## Deployment
-
-Automatisches Deployment via GitHub Webhook.
-Push auf `main` → Server zieht aenderungen automatisch.
+## Links
+- Demo: https://demo.foerdelab.de/ice-cream-parlor-cafe-flora
+- Repo: https://github.com/foerdelab-demos/ice-cream-parlor-cafe-flora
